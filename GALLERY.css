@@ -1,0 +1,19 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: antiquewhite;
+}
+h1:hover{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 31%;
+    height: 450px;
+    margin: 1.16%;
+    float: left;
+}
+html{
+    background-color: blue;
+}
+
